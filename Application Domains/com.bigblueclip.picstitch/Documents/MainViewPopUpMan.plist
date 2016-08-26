@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MainTipPopUp</key>
+	<dict>
+		<key>FireCount</key>
+		<integer>1</integer>
+		<key>FireDate</key>
+		<real>1461845325.3453929</real>
+	</dict>
+	<key>QuickSaveTipPopUp</key>
+	<dict>
+		<key>FireCount</key>
+		<integer>1</integer>
+		<key>FireDate</key>
+		<real>1461845314.973985</real>
+	</dict>
+</dict>
+</plist>

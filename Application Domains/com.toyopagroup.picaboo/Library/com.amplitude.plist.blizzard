@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>first_failure_absolute_ts</key>
+	<real>0.0</real>
+	<key>max_id</key>
+	<integer>9709</integer>
+	<key>overflowed_event_count</key>
+	<integer>0</integer>
+	<key>rejected_event_count</key>
+	<integer>0</integer>
+</dict>
+</plist>

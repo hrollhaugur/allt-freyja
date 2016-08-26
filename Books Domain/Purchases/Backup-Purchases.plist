@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Books</key>
+	<array>
+		<dict>
+			<key>Inserted-By-iBooks</key>
+			<true/>
+			<key>Name</key>
+			<string>skjal_30104889</string>
+			<key>Package Hash</key>
+			<string>0FE950BE7FCDF965EA735C5AC2459216</string>
+			<key>Page Progression Direction</key>
+			<string>default</string>
+			<key>Path</key>
+			<string>skjal_30104889.pdf</string>
+			<key>Persistent ID</key>
+			<string>46A6189320FD4D39</string>
+			<key>Persistent ID Generated On Device</key>
+			<true/>
+			<key>s</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Inserted-By-iBooks</key>
+			<true/>
+			<key>Name</key>
+			<string>skjal_33229765</string>
+			<key>Package Hash</key>
+			<string>76375058072C07AA5EA45110CD0E6E22</string>
+			<key>Page Progression Direction</key>
+			<string>default</string>
+			<key>Path</key>
+			<string>skjal_33229765.pdf</string>
+			<key>Persistent ID</key>
+			<string>F9676FE12A5D4865</string>
+			<key>Persistent ID Generated On Device</key>
+			<true/>
+			<key>s</key>
+			<string>0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
